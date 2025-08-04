@@ -19,4 +19,4 @@ A quick web-search on the topic will be more useful than any explanations here, 
 
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
-- It looks like this lesson doesn't have any additional resources yet. Help us expand this section by contributing to our curriculum.
+- You can watch this helpful full course[Video](https://youtu.be/lfmg-EJ8gm4).
